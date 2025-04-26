@@ -1,5 +1,5 @@
 # GifsApp
-
+Welcome to this small but usable gif app I'm developing while learning Angular. It uses Giphy API. You can search and store your favourite gifs ✨
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
 ## Development server
